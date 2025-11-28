@@ -1,0 +1,10 @@
+/* Deze drie regels zijn essentieel om Tailwind in te laden */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Basisstijlen voor betere tekstweergave */
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
