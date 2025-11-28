@@ -1,6 +1,6 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import App from './app.js'; // Let op: importeer hier uw app.js
+import App from './App.jsx'; // Let op: importeer hier uw app.js
 
 // Zoek de root DOM-node in public/index.html
 const container = document.getElementById('root');
