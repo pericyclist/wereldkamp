@@ -2,7 +2,7 @@
   "name": "wereldkamp-just-website",
   "version": "1.0.0",
   "description": "Website voor Wereldkamp #38, gebouwd met React en Tailwind CSS.",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
     "start": "react-scripts start",
